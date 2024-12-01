@@ -1,2 +1,2 @@
-# advent-of-code-2023
-Here, I'll keep uploading solutions of Advent Of Code 2023 puzzles.
+# advent-of-code
+Here, I'll keep uploading solutions of Advent Of Code puzzles.
